@@ -1,5 +1,7 @@
 # MOZART - Music Optimization Artificial intelligence
 
+Read Paper: <a href="https://doi.org /10.1109/ICICT48043.2020.9112473"> Here </a>
+
 Mozart, short for Music Optimization Artificial intelligence, is a state of the art technology that primarily focusses on the hefty problem of acoustic feature enhancements using learning mechanism and constraint optimizations.
 
 As we already know that sound travels in waves, a source of vibration causes the molecules of the surrounding medium to oscillate back and forth causing the sound to travel in such wave patterns. A recording device, say a microphone, intercepts the sound waves from the surrounding medium’s excited molecules and acts as a transducer, that is, it converts one form of energy (sound) to another form (electrical energy). A human brain interprets sound in a similar fashion. It observes sound as vibrations and converts it into electrical impulses.
