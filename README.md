@@ -1,6 +1,6 @@
 # MOZART - Music Optimization Artificial intelligence
 
-Read My Paper: <a href="https://doi.org /10.1109/ICICT48043.2020.9112473"> Here </a>
+Read My Paper: <a href="https://doi.org/10.1109/ICICT48043.2020.9112473"> Here </a>
 
 Mozart, short for Music Optimization Artificial intelligence, is a state of the art technology that primarily focusses on the hefty problem of acoustic feature enhancements using learning mechanism and constraint optimizations.
 
