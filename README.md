@@ -1,6 +1,4 @@
 # MOZART
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/greybox)](https://cran.r-project.org/package=greybox)
-[![Downloads](http://cranlogs.r-pkg.org/badges/greybox)](https://cran.r-project.org/package=greybox)
 
 ### Instructions:
 ##### Install Python 3, and Packages:
